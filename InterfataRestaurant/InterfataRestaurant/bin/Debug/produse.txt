@@ -1,0 +1,9 @@
+Gratar Porc/40/carne porc+ceapa+usturoi+cartofi
+Gratar Vita/50/carne vita+rosii+castraveti+ceapa
+Gratar Pui/30/carne pui+porumb+gogosari+ceapa rosie+ardei kapia
+Salata Greceasca/25/salata verde+porumb+masline kalamata+dressing
+Ciorba Pui/18/carne pui+zarzavaturi+cartofi
+Pizza Margherita/20/blat pufos+sos rosii+branza topita
+Coca Cola/10/Coca Cola
+Pepsi/10/Pepsi
+Fresh portocale/15/portocale proaspete+gheata+apa

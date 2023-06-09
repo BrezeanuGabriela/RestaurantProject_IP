@@ -1,0 +1,12 @@
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Produs1\bin\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Produs1\bin\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Produs1\obj\Debug\Produs1.csproj.CoreCompileInputs.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Produs1\obj\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Produs1\obj\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Produs1\obj\Debug\Produs1.csproj.AssemblyReference.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Produs1\bin\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Produs1\bin\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Produs1\obj\Debug\Produs1.csproj.AssemblyReference.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Produs1\obj\Debug\Produs1.csproj.CoreCompileInputs.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Produs1\obj\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Produs1\obj\Debug\Produs1.pdb

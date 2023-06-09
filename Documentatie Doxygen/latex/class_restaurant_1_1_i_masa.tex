@@ -1,0 +1,132 @@
+\hypertarget{class_restaurant_1_1_i_masa}{}\doxysection{Restaurant.\+IMasa Class Reference}
+\label{class_restaurant_1_1_i_masa}\index{Restaurant.IMasa@{Restaurant.IMasa}}
+
+
+Clasa utilizata pentru abstractizarea unei mese din restaurant  
+
+
+Inheritance diagram for Restaurant.\+IMasa\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_restaurant_1_1_i_masa}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+abstract void \mbox{\hyperlink{class_restaurant_1_1_i_masa_af676bca0d1f0ed97fdbad0892efb01cb}{Add\+Comanda}} (\mbox{\hyperlink{class_restaurant_1_1_i_comanda}{IComanda}} comanda)
+\begin{DoxyCompactList}\small\item\em Metoda utilizata pentru adaugarea unei comenzi in lista comenzilor de la masa respectiva \end{DoxyCompactList}\item 
+abstract void \mbox{\hyperlink{class_restaurant_1_1_i_masa_a492011e3d0c12711be43a7430e44925c}{Get\+Comanda}} (int index, ref \mbox{\hyperlink{class_restaurant_1_1_i_comanda}{IComanda}} comanda)
+\begin{DoxyCompactList}\small\item\em Metoda utilizata pentru returnarea unei comenzi \end{DoxyCompactList}\item 
+abstract void \mbox{\hyperlink{class_restaurant_1_1_i_masa_a52cac61b99963dc2d51600d5990def40}{Sterge\+Comanda}} (\mbox{\hyperlink{class_restaurant_1_1_i_comanda}{IComanda}} comanda)
+\begin{DoxyCompactList}\small\item\em Metoda apelata pentru stergerea unei comenzi din lista celor de la masa \end{DoxyCompactList}\item 
+abstract double \mbox{\hyperlink{class_restaurant_1_1_i_masa_ad0c3ea22348342a02ea62bdae6cd78f2}{Total\+Cost\+Comenzi\+Masa}} ()
+\begin{DoxyCompactList}\small\item\em Metoda utilizata pentru a insuma costul tuturor comenzilor emisa la masa \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_restaurant_1_1_i_masa_ac08d5c84d0af6fbddede7d69b371dc0e}\label{class_restaurant_1_1_i_masa_ac08d5c84d0af6fbddede7d69b371dc0e}} 
+List$<$ \mbox{\hyperlink{class_restaurant_1_1_i_comanda}{IComanda}} $>$ {\bfseries \+\_\+comenzi}
+\item 
+\mbox{\Hypertarget{class_restaurant_1_1_i_masa_af014e00dfcb39600763ddbff1d7c194f}\label{class_restaurant_1_1_i_masa_af014e00dfcb39600763ddbff1d7c194f}} 
+int {\bfseries index}
+\end{DoxyCompactItemize}
+\doxysubsection*{Static Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_restaurant_1_1_i_masa_aa72448fd33784fa842f94cd89eb22460}\label{class_restaurant_1_1_i_masa_aa72448fd33784fa842f94cd89eb22460}} 
+static int {\bfseries \+\_\+nr\+Mese} = 0
+\end{DoxyCompactItemize}
+\doxysubsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_restaurant_1_1_i_masa_af852c41d1270190cfb69fae49d762b86}\label{class_restaurant_1_1_i_masa_af852c41d1270190cfb69fae49d762b86}} 
+List$<$ \mbox{\hyperlink{class_restaurant_1_1_i_comanda}{IComanda}} $>$ {\bfseries Comenzi}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clasa utilizata pentru abstractizarea unei mese din restaurant 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_restaurant_1_1_i_masa_af676bca0d1f0ed97fdbad0892efb01cb}\label{class_restaurant_1_1_i_masa_af676bca0d1f0ed97fdbad0892efb01cb}} 
+\index{Restaurant.IMasa@{Restaurant.IMasa}!AddComanda@{AddComanda}}
+\index{AddComanda@{AddComanda}!Restaurant.IMasa@{Restaurant.IMasa}}
+\doxysubsubsection{\texorpdfstring{AddComanda()}{AddComanda()}}
+{\footnotesize\ttfamily abstract void Restaurant.\+IMasa.\+Add\+Comanda (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_restaurant_1_1_i_comanda}{IComanda}}}]{comanda }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+
+
+Metoda utilizata pentru adaugarea unei comenzi in lista comenzilor de la masa respectiva 
+
+
+\begin{DoxyParams}{Parameters}
+{\em comanda} & \mbox{\hyperlink{class_restaurant_1_1_comanda}{Comanda}} care va fi adaugata\\
+\hline
+\end{DoxyParams}
+
+
+Implemented in \mbox{\hyperlink{class_restaurant_1_1_masa_a6e42ab8f19dc3875caeef43aad3a8fcf}{Restaurant.\+Masa}}.
+
+\mbox{\Hypertarget{class_restaurant_1_1_i_masa_a492011e3d0c12711be43a7430e44925c}\label{class_restaurant_1_1_i_masa_a492011e3d0c12711be43a7430e44925c}} 
+\index{Restaurant.IMasa@{Restaurant.IMasa}!GetComanda@{GetComanda}}
+\index{GetComanda@{GetComanda}!Restaurant.IMasa@{Restaurant.IMasa}}
+\doxysubsubsection{\texorpdfstring{GetComanda()}{GetComanda()}}
+{\footnotesize\ttfamily abstract void Restaurant.\+IMasa.\+Get\+Comanda (\begin{DoxyParamCaption}\item[{int}]{index,  }\item[{ref \mbox{\hyperlink{class_restaurant_1_1_i_comanda}{IComanda}}}]{comanda }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+
+
+Metoda utilizata pentru returnarea unei comenzi 
+
+
+\begin{DoxyParams}{Parameters}
+{\em index} & Indexul comenzii din lista ce va fi returnata\\
+\hline
+{\em comanda} & \mbox{\hyperlink{class_restaurant_1_1_comanda}{Comanda}} returnata prin referinta\\
+\hline
+\end{DoxyParams}
+
+
+Implemented in \mbox{\hyperlink{class_restaurant_1_1_masa_a660e4fecd9eddb8eedf81f05c872a413}{Restaurant.\+Masa}}.
+
+\mbox{\Hypertarget{class_restaurant_1_1_i_masa_a52cac61b99963dc2d51600d5990def40}\label{class_restaurant_1_1_i_masa_a52cac61b99963dc2d51600d5990def40}} 
+\index{Restaurant.IMasa@{Restaurant.IMasa}!StergeComanda@{StergeComanda}}
+\index{StergeComanda@{StergeComanda}!Restaurant.IMasa@{Restaurant.IMasa}}
+\doxysubsubsection{\texorpdfstring{StergeComanda()}{StergeComanda()}}
+{\footnotesize\ttfamily abstract void Restaurant.\+IMasa.\+Sterge\+Comanda (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_restaurant_1_1_i_comanda}{IComanda}}}]{comanda }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+
+
+Metoda apelata pentru stergerea unei comenzi din lista celor de la masa 
+
+
+\begin{DoxyParams}{Parameters}
+{\em comanda} & \mbox{\hyperlink{class_restaurant_1_1_comanda}{Comanda}} care va fi stearsa\\
+\hline
+\end{DoxyParams}
+
+
+Implemented in \mbox{\hyperlink{class_restaurant_1_1_masa_aae617090af8f6655070615ca01cd125b}{Restaurant.\+Masa}}.
+
+\mbox{\Hypertarget{class_restaurant_1_1_i_masa_ad0c3ea22348342a02ea62bdae6cd78f2}\label{class_restaurant_1_1_i_masa_ad0c3ea22348342a02ea62bdae6cd78f2}} 
+\index{Restaurant.IMasa@{Restaurant.IMasa}!TotalCostComenziMasa@{TotalCostComenziMasa}}
+\index{TotalCostComenziMasa@{TotalCostComenziMasa}!Restaurant.IMasa@{Restaurant.IMasa}}
+\doxysubsubsection{\texorpdfstring{TotalCostComenziMasa()}{TotalCostComenziMasa()}}
+{\footnotesize\ttfamily abstract double Restaurant.\+IMasa.\+Total\+Cost\+Comenzi\+Masa (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [pure virtual]}}
+
+
+
+Metoda utilizata pentru a insuma costul tuturor comenzilor emisa la masa 
+
+\begin{DoxyReturn}{Returns}
+Suma totala incasata
+\end{DoxyReturn}
+
+
+Implemented in \mbox{\hyperlink{class_restaurant_1_1_masa_a00e036eec2a94a180fab74dbd132a2fb}{Restaurant.\+Masa}}.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/\+FACULTATE/\+Semestrul 2/\+IP/\+Proiect/\+Final 1.\+0/\+Masa1/IMasa.\+cs\end{DoxyCompactItemize}

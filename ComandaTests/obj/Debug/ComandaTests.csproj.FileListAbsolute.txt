@@ -1,0 +1,36 @@
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Comanda1Tests.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Comanda1Tests.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Comanda1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Comanda1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\bin\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\obj\Debug\ComandaTests.csproj.CoreCompileInputs.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\obj\Debug\ComandaTests.csproj.CopyComplete
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\obj\Debug\Comanda1Tests.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\obj\Debug\Comanda1Tests.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Comanda1Tests\obj\Debug\ComandaTests.csproj.AssemblyReference.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Comanda1Tests.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Comanda1Tests.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Comanda1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Comanda1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\bin\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\obj\Debug\ComandaTests.csproj.AssemblyReference.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\obj\Debug\ComandaTests.csproj.CoreCompileInputs.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\obj\Debug\ComandaTests.csproj.CopyComplete
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\obj\Debug\Comanda1Tests.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Comanda1Tests\obj\Debug\Comanda1Tests.pdb

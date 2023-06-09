@@ -1,0 +1,11 @@
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Masa1\obj\Debug\Masa1.csproj.CoreCompileInputs.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Masa1\bin\Debug\Masa1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Masa1\bin\Debug\Masa1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Masa1\bin\Debug\Comanda1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Masa1\bin\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Masa1\bin\Debug\Comanda1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Masa1\bin\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Masa1\obj\Debug\Masa1.csproj.CopyComplete
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Masa1\obj\Debug\Masa1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Masa1\obj\Debug\Masa1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Masa1\obj\Debug\Masa1.csproj.AssemblyReference.cache

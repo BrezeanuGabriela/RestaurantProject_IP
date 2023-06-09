@@ -1,0 +1,93 @@
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\InterfataRestaurant.exe.config
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\InterfataRestaurant.exe
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\InterfataRestaurant.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.AssemblyReference.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.GUIRestaurant.resources
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.Properties.Resources.resources
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.GenerateResource.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.CoreCompileInputs.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.exe
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\Meniu1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\Meniu1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.CopyComplete
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\Comanda1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\Masa1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\Comanda1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\Masa1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\Chelner1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\Client1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\Chelner1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\InterfataRestaurant\InterfataRestaurant\bin\Debug\Client1.pdb
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\InterfataRestaurant.exe.config
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\InterfataRestaurant.exe
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\InterfataRestaurant.pdb
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Chelner1.dll
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Client1.dll
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Comanda1.dll
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Masa1.dll
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Meniu1.dll
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Produs1.dll
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Chelner1.pdb
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Client1.pdb
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Comanda1.pdb
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Masa1.pdb
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Meniu1.pdb
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Produs1.pdb
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.AssemblyReference.cache
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.SuggestedBindingRedirects.cache
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.GUIRestaurant.resources
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.Properties.Resources.resources
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.GenerateResource.cache
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.CoreCompileInputs.cache
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.CopyComplete
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.exe
+E:\Uni AC\AN_3_\SEM2\materii\IP\proiect\Proiect2\Proiect-IP\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\InterfataRestaurant.exe.config
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\InterfataRestaurant.exe
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\InterfataRestaurant.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Chelner1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Client1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Comanda1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Masa1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Meniu1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Chelner1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Client1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Comanda1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Masa1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Meniu1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\bin\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.AssemblyReference.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.GUIRestaurant.resources
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.Properties.Resources.resources
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.GenerateResource.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.CoreCompileInputs.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.CopyComplete
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.exe
+E:\FACULTATE\Semestrul 2\IP\Proiect\wetransfer_raluca-zip_2022-06-01_1301\backup 28.05 - merge totul, fara UT\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\InterfataRestaurant.exe.config
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\InterfataRestaurant.exe
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\InterfataRestaurant.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\Chelner1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\Client1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\Comanda1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\Masa1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\Meniu1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\Chelner1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\Client1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\Comanda1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\Masa1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\Meniu1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\bin\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.AssemblyReference.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.GUIRestaurant.resources
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.Properties.Resources.resources
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.GenerateResource.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.CoreCompileInputs.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.csproj.CopyComplete
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.exe
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\InterfataRestaurant\InterfataRestaurant\obj\Debug\InterfataRestaurant.pdb

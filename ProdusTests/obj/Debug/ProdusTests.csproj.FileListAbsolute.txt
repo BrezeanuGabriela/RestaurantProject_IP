@@ -1,0 +1,16 @@
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\bin\Debug\ProdusTests.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\bin\Debug\ProdusTests.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\bin\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\bin\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\obj\Debug\ProdusTests.csproj.AssemblyReference.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\obj\Debug\ProdusTests.csproj.CoreCompileInputs.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\obj\Debug\ProdusTests.csproj.CopyComplete
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\obj\Debug\ProdusTests.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\ProdusTests\obj\Debug\ProdusTests.pdb

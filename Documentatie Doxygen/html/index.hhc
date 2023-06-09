@@ -1,0 +1,274 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientTests"><param name="Local" value="namespace_client_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UnitTest1"><param name="Local" value="class_client_tests_1_1_unit_test1.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="InterfataRestaurant"><param name="Local" value="namespace_interfata_restaurant.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="namespace_interfata_restaurant_1_1_properties.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GUIRestaurant"><param name="Local" value="class_interfata_restaurant_1_1_g_u_i_restaurant.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GUIRestaurant"><param name="Local" value="class_interfata_restaurant_1_1_g_u_i_restaurant.html#aa2d0c78224ddd19f64455be8e258e54c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_interfata_restaurant_1_1_g_u_i_restaurant.html#a44859a0e165d0111381d28ebf1c0d5f0"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant"><param name="Local" value="namespace_restaurant.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Tests"><param name="Local" value="namespace_restaurant_1_1_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ChelnerTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_chelner_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_client_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ComandaTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_comanda_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeliveryComandaTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_delivery_comanda_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MasaTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_masa_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MeniuTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_meniu_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ProdusTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_produs_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SalaRestaurantTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_sala_restaurant_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Chelner"><param name="Local" value="class_restaurant_1_1_chelner.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EmiteBon"><param name="Local" value="class_restaurant_1_1_chelner.html#a5abbd67010daa10e3eec1c3528080d74"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InchideCasa"><param name="Local" value="class_restaurant_1_1_chelner.html#af296e72efc3063379fffbda9a412bf0c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PreiaComanda"><param name="Local" value="class_restaurant_1_1_chelner.html#aa3e2513b24da79a027e4820a0d7655be"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Client"><param name="Local" value="class_restaurant_1_1_client.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Client"><param name="Local" value="class_restaurant_1_1_client.html#ae62ea2ddbe892a20a9423ccb8869249e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AdaugaProdus"><param name="Local" value="class_restaurant_1_1_client.html#aa095f356cc9e3814eb7523b29ea2e4b0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TrimiteComanda"><param name="Local" value="class_restaurant_1_1_client.html#a1039f7f948f304be1be61946020ac354"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Comanda"><param name="Local" value="class_restaurant_1_1_comanda.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Comanda"><param name="Local" value="class_restaurant_1_1_comanda.html#a2f4d7d4f023bec5808f02c6b47bbfbbe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AfiseazaComanda"><param name="Local" value="class_restaurant_1_1_comanda.html#ad3f40c04c6177647f6ea032ba1e65d0f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Facturare"><param name="Local" value="class_restaurant_1_1_comanda.html#aa1d43d803d8e50c483af4ca39037b1cd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetRezumatComanda"><param name="Local" value="class_restaurant_1_1_comanda.html#a4a285437712abd43b79f600f206af93d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TiparesteBon"><param name="Local" value="class_restaurant_1_1_comanda.html#ade4cd3b36e7f287f62a72e5ef17a50f0"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DeliveryComanda"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeliveryComanda"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html#a21c80b107e63a091326bd29749006aeb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AfiseazaComanda"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html#affe9fcaccbda4a27674083204a9da2a8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Facturare"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html#a7d874367df464cbe2f3318d94522b6b4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetRezumatComanda"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html#a4862913787e14e3f1ed8385856e1a0d8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TiparesteBon"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html#a5bde3e2adf1ef31dcb96746bbe10af84"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IComanda"><param name="Local" value="class_restaurant_1_1_i_comanda.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AfiseazaComanda"><param name="Local" value="class_restaurant_1_1_i_comanda.html#a2bddb1d5ee0f7a4cb7841372b875b8db"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Facturare"><param name="Local" value="class_restaurant_1_1_i_comanda.html#a9a876a919f76c9e6bd531457b33f5382"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TiparesteBon"><param name="Local" value="class_restaurant_1_1_i_comanda.html#a37e319005d5b16f7335ddedccc4ba5f1"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IMasa"><param name="Local" value="class_restaurant_1_1_i_masa.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddComanda"><param name="Local" value="class_restaurant_1_1_i_masa.html#af676bca0d1f0ed97fdbad0892efb01cb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetComanda"><param name="Local" value="class_restaurant_1_1_i_masa.html#a492011e3d0c12711be43a7430e44925c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StergeComanda"><param name="Local" value="class_restaurant_1_1_i_masa.html#a52cac61b99963dc2d51600d5990def40"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TotalCostComenziMasa"><param name="Local" value="class_restaurant_1_1_i_masa.html#ad0c3ea22348342a02ea62bdae6cd78f2"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Masa"><param name="Local" value="class_restaurant_1_1_masa.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Masa"><param name="Local" value="class_restaurant_1_1_masa.html#ada452393fe7d7f94de0f8770dbc7db98"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddComanda"><param name="Local" value="class_restaurant_1_1_masa.html#a6e42ab8f19dc3875caeef43aad3a8fcf"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetComanda"><param name="Local" value="class_restaurant_1_1_masa.html#a660e4fecd9eddb8eedf81f05c872a413"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StergeComanda"><param name="Local" value="class_restaurant_1_1_masa.html#aae617090af8f6655070615ca01cd125b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TotalCostComenziMasa"><param name="Local" value="class_restaurant_1_1_masa.html#a00e036eec2a94a180fab74dbd132a2fb"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Meniu"><param name="Local" value="class_restaurant_1_1_meniu.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AfisareMeniu"><param name="Local" value="class_restaurant_1_1_meniu.html#a818fa3cfdc705867768750cbe5d8e672"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Produs"><param name="Local" value="class_restaurant_1_1_produs.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Produs"><param name="Local" value="class_restaurant_1_1_produs.html#a206ae37037aa877f8054048857988120"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AfisareProdus"><param name="Local" value="class_restaurant_1_1_produs.html#a7d21543e74025712cc5a260f777cf434"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SalaRestaurant"><param name="Local" value="class_restaurant_1_1_sala_restaurant.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddTable"><param name="Local" value="class_restaurant_1_1_sala_restaurant.html#a50efca88279e0d102a19cf38a5b4297d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetComenziMasaCurenta"><param name="Local" value="class_restaurant_1_1_sala_restaurant.html#a9e9fa969fa81ae6ede3495583b5e0c6b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetCurrentTable"><param name="Local" value="class_restaurant_1_1_sala_restaurant.html#a1112fd89232eee2c540286a8fa55c3a8"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientTests"><param name="Local" value="namespace_client_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UnitTest1"><param name="Local" value="class_client_tests_1_1_unit_test1.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="InterfataRestaurant"><param name="Local" value="namespace_interfata_restaurant.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GUIRestaurant"><param name="Local" value="class_interfata_restaurant_1_1_g_u_i_restaurant.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GUIRestaurant"><param name="Local" value="class_interfata_restaurant_1_1_g_u_i_restaurant.html#aa2d0c78224ddd19f64455be8e258e54c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_interfata_restaurant_1_1_g_u_i_restaurant.html#a44859a0e165d0111381d28ebf1c0d5f0"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant"><param name="Local" value="namespace_restaurant.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Tests"><param name="Local" value="namespace_restaurant_1_1_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ChelnerTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_chelner_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_client_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ComandaTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_comanda_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeliveryComandaTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_delivery_comanda_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MasaTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_masa_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MeniuTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_meniu_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ProdusTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_produs_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SalaRestaurantTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_sala_restaurant_tests.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Chelner"><param name="Local" value="class_restaurant_1_1_chelner.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EmiteBon"><param name="Local" value="class_restaurant_1_1_chelner.html#a5abbd67010daa10e3eec1c3528080d74"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="InchideCasa"><param name="Local" value="class_restaurant_1_1_chelner.html#af296e72efc3063379fffbda9a412bf0c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PreiaComanda"><param name="Local" value="class_restaurant_1_1_chelner.html#aa3e2513b24da79a027e4820a0d7655be"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Client"><param name="Local" value="class_restaurant_1_1_client.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Client"><param name="Local" value="class_restaurant_1_1_client.html#ae62ea2ddbe892a20a9423ccb8869249e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AdaugaProdus"><param name="Local" value="class_restaurant_1_1_client.html#aa095f356cc9e3814eb7523b29ea2e4b0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TrimiteComanda"><param name="Local" value="class_restaurant_1_1_client.html#a1039f7f948f304be1be61946020ac354"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Comanda"><param name="Local" value="class_restaurant_1_1_comanda.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Comanda"><param name="Local" value="class_restaurant_1_1_comanda.html#a2f4d7d4f023bec5808f02c6b47bbfbbe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AfiseazaComanda"><param name="Local" value="class_restaurant_1_1_comanda.html#ad3f40c04c6177647f6ea032ba1e65d0f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Facturare"><param name="Local" value="class_restaurant_1_1_comanda.html#aa1d43d803d8e50c483af4ca39037b1cd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetRezumatComanda"><param name="Local" value="class_restaurant_1_1_comanda.html#a4a285437712abd43b79f600f206af93d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TiparesteBon"><param name="Local" value="class_restaurant_1_1_comanda.html#ade4cd3b36e7f287f62a72e5ef17a50f0"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DeliveryComanda"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeliveryComanda"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html#a21c80b107e63a091326bd29749006aeb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AfiseazaComanda"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html#affe9fcaccbda4a27674083204a9da2a8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Facturare"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html#a7d874367df464cbe2f3318d94522b6b4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetRezumatComanda"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html#a4862913787e14e3f1ed8385856e1a0d8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TiparesteBon"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html#a5bde3e2adf1ef31dcb96746bbe10af84"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IComanda"><param name="Local" value="class_restaurant_1_1_i_comanda.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AfiseazaComanda"><param name="Local" value="class_restaurant_1_1_i_comanda.html#a2bddb1d5ee0f7a4cb7841372b875b8db"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Facturare"><param name="Local" value="class_restaurant_1_1_i_comanda.html#a9a876a919f76c9e6bd531457b33f5382"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TiparesteBon"><param name="Local" value="class_restaurant_1_1_i_comanda.html#a37e319005d5b16f7335ddedccc4ba5f1"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IMasa"><param name="Local" value="class_restaurant_1_1_i_masa.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddComanda"><param name="Local" value="class_restaurant_1_1_i_masa.html#af676bca0d1f0ed97fdbad0892efb01cb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetComanda"><param name="Local" value="class_restaurant_1_1_i_masa.html#a492011e3d0c12711be43a7430e44925c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StergeComanda"><param name="Local" value="class_restaurant_1_1_i_masa.html#a52cac61b99963dc2d51600d5990def40"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TotalCostComenziMasa"><param name="Local" value="class_restaurant_1_1_i_masa.html#ad0c3ea22348342a02ea62bdae6cd78f2"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Masa"><param name="Local" value="class_restaurant_1_1_masa.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Masa"><param name="Local" value="class_restaurant_1_1_masa.html#ada452393fe7d7f94de0f8770dbc7db98"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddComanda"><param name="Local" value="class_restaurant_1_1_masa.html#a6e42ab8f19dc3875caeef43aad3a8fcf"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetComanda"><param name="Local" value="class_restaurant_1_1_masa.html#a660e4fecd9eddb8eedf81f05c872a413"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StergeComanda"><param name="Local" value="class_restaurant_1_1_masa.html#aae617090af8f6655070615ca01cd125b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TotalCostComenziMasa"><param name="Local" value="class_restaurant_1_1_masa.html#a00e036eec2a94a180fab74dbd132a2fb"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Meniu"><param name="Local" value="class_restaurant_1_1_meniu.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AfisareMeniu"><param name="Local" value="class_restaurant_1_1_meniu.html#a818fa3cfdc705867768750cbe5d8e672"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Produs"><param name="Local" value="class_restaurant_1_1_produs.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Produs"><param name="Local" value="class_restaurant_1_1_produs.html#a206ae37037aa877f8054048857988120"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AfisareProdus"><param name="Local" value="class_restaurant_1_1_produs.html#a7d21543e74025712cc5a260f777cf434"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SalaRestaurant"><param name="Local" value="class_restaurant_1_1_sala_restaurant.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddTable"><param name="Local" value="class_restaurant_1_1_sala_restaurant.html#a50efca88279e0d102a19cf38a5b4297d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetComenziMasaCurenta"><param name="Local" value="class_restaurant_1_1_sala_restaurant.html#a9e9fa969fa81ae6ede3495583b5e0c6b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetCurrentTable"><param name="Local" value="class_restaurant_1_1_sala_restaurant.html#a1112fd89232eee2c540286a8fa55c3a8"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Chelner"><param name="Local" value="class_restaurant_1_1_chelner.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Tests.ChelnerTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_chelner_tests.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Client"><param name="Local" value="class_restaurant_1_1_client.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Tests.ClientTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_client_tests.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Tests.ComandaTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_comanda_tests.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Tests.DeliveryComandaTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_delivery_comanda_tests.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Form"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="InterfataRestaurant.GUIRestaurant"><param name="Local" value="class_interfata_restaurant_1_1_g_u_i_restaurant.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.IComanda"><param name="Local" value="class_restaurant_1_1_i_comanda.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Comanda"><param name="Local" value="class_restaurant_1_1_comanda.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.DeliveryComanda"><param name="Local" value="class_restaurant_1_1_delivery_comanda.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.IMasa"><param name="Local" value="class_restaurant_1_1_i_masa.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Masa"><param name="Local" value="class_restaurant_1_1_masa.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Tests.MasaTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_masa_tests.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Meniu"><param name="Local" value="class_restaurant_1_1_meniu.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Tests.MeniuTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_meniu_tests.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Produs"><param name="Local" value="class_restaurant_1_1_produs.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Tests.ProdusTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_produs_tests.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.SalaRestaurant"><param name="Local" value="class_restaurant_1_1_sala_restaurant.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Restaurant.Tests.SalaRestaurantTests"><param name="Local" value="class_restaurant_1_1_tests_1_1_sala_restaurant_tests.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ClientTests.UnitTest1"><param name="Local" value="class_client_tests_1_1_unit_test1.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

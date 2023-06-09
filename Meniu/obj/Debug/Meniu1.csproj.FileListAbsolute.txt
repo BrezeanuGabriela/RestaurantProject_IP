@@ -1,0 +1,18 @@
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Meniu1\obj\Debug\Meniu1.csproj.AssemblyReference.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Meniu1\obj\Debug\Meniu1.csproj.CoreCompileInputs.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Meniu1\bin\Debug\Meniu1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Meniu1\bin\Debug\Meniu1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Meniu1\bin\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Meniu1\bin\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Meniu1\obj\Debug\Meniu1.csproj.CopyComplete
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Meniu1\obj\Debug\Meniu1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Proiect-IP-main\Proiect-IP-main\Meniu1\obj\Debug\Meniu1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Meniu1\bin\Debug\Meniu1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Meniu1\bin\Debug\Meniu1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Meniu1\bin\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Meniu1\bin\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Meniu1\obj\Debug\Meniu1.csproj.AssemblyReference.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Meniu1\obj\Debug\Meniu1.csproj.CoreCompileInputs.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Meniu1\obj\Debug\Meniu1.csproj.CopyComplete
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Meniu1\obj\Debug\Meniu1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Meniu1\obj\Debug\Meniu1.pdb

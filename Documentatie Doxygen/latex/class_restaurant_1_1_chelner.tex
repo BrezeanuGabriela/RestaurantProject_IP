@@ -1,0 +1,100 @@
+\hypertarget{class_restaurant_1_1_chelner}{}\doxysection{Restaurant.\+Chelner Class Reference}
+\label{class_restaurant_1_1_chelner}\index{Restaurant.Chelner@{Restaurant.Chelner}}
+
+
+Clasa Singleton pentru construirea chelnerului restaurantului  
+
+
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_restaurant_1_1_chelner_aa3e2513b24da79a027e4820a0d7655be}{Preia\+Comanda}} (\mbox{\hyperlink{class_restaurant_1_1_i_comanda}{IComanda}} comanda, int index\+Masa)
+\begin{DoxyCompactList}\small\item\em Metoda prin care chelnerul preia comanda de la masa curenta \end{DoxyCompactList}\item 
+String \mbox{\hyperlink{class_restaurant_1_1_chelner_a5abbd67010daa10e3eec1c3528080d74}{Emite\+Bon}} (int index\+Masa, int index\+Comanda\+Selectata)
+\begin{DoxyCompactList}\small\item\em Metoda prin care chelnerul emite bonul pentru masa curenta, a comenzii selectate \end{DoxyCompactList}\item 
+double \mbox{\hyperlink{class_restaurant_1_1_chelner_af296e72efc3063379fffbda9a412bf0c}{Inchide\+Casa}} ()
+\begin{DoxyCompactList}\small\item\em Metoda pentru inchiderea restaurantului atunci cand toate comenzile au fost finalizate, nu mai exista comenzi curente \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \mbox{\hyperlink{class_restaurant_1_1_chelner}{Chelner}} \mbox{\hyperlink{class_restaurant_1_1_chelner_adf3078c21e2396a21ff4e21c6a466690}{Instance}} ()
+\begin{DoxyCompactList}\small\item\em Metoda care returneaza instanta clasei \mbox{\hyperlink{class_restaurant_1_1_chelner}{Chelner}} \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clasa Singleton pentru construirea chelnerului restaurantului 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_restaurant_1_1_chelner_a5abbd67010daa10e3eec1c3528080d74}\label{class_restaurant_1_1_chelner_a5abbd67010daa10e3eec1c3528080d74}} 
+\index{Restaurant.Chelner@{Restaurant.Chelner}!EmiteBon@{EmiteBon}}
+\index{EmiteBon@{EmiteBon}!Restaurant.Chelner@{Restaurant.Chelner}}
+\doxysubsubsection{\texorpdfstring{EmiteBon()}{EmiteBon()}}
+{\footnotesize\ttfamily String Restaurant.\+Chelner.\+Emite\+Bon (\begin{DoxyParamCaption}\item[{int}]{index\+Masa,  }\item[{int}]{index\+Comanda\+Selectata }\end{DoxyParamCaption})}
+
+
+
+Metoda prin care chelnerul emite bonul pentru masa curenta, a comenzii selectate 
+
+
+\begin{DoxyParams}{Parameters}
+{\em index\+Masa} & Id-\/ul mesei curente\\
+\hline
+{\em index\+Comanda\+Selectata} & Id-\/ul comenzii selectate pentru emitere\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_restaurant_1_1_chelner_af296e72efc3063379fffbda9a412bf0c}\label{class_restaurant_1_1_chelner_af296e72efc3063379fffbda9a412bf0c}} 
+\index{Restaurant.Chelner@{Restaurant.Chelner}!InchideCasa@{InchideCasa}}
+\index{InchideCasa@{InchideCasa}!Restaurant.Chelner@{Restaurant.Chelner}}
+\doxysubsubsection{\texorpdfstring{InchideCasa()}{InchideCasa()}}
+{\footnotesize\ttfamily double Restaurant.\+Chelner.\+Inchide\+Casa (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Metoda pentru inchiderea restaurantului atunci cand toate comenzile au fost finalizate, nu mai exista comenzi curente 
+
+\begin{DoxyReturn}{Returns}
+Costul total al comenzilor din sesiunea curenta de comenzi
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_restaurant_1_1_chelner_adf3078c21e2396a21ff4e21c6a466690}\label{class_restaurant_1_1_chelner_adf3078c21e2396a21ff4e21c6a466690}} 
+\index{Restaurant.Chelner@{Restaurant.Chelner}!Instance@{Instance}}
+\index{Instance@{Instance}!Restaurant.Chelner@{Restaurant.Chelner}}
+\doxysubsubsection{\texorpdfstring{Instance()}{Instance()}}
+{\footnotesize\ttfamily static \mbox{\hyperlink{class_restaurant_1_1_chelner}{Chelner}} Restaurant.\+Chelner.\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Metoda care returneaza instanta clasei \mbox{\hyperlink{class_restaurant_1_1_chelner}{Chelner}} 
+
+\begin{DoxyReturn}{Returns}
+Instanta clasei \mbox{\hyperlink{class_restaurant_1_1_chelner}{Chelner}}
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_restaurant_1_1_chelner_aa3e2513b24da79a027e4820a0d7655be}\label{class_restaurant_1_1_chelner_aa3e2513b24da79a027e4820a0d7655be}} 
+\index{Restaurant.Chelner@{Restaurant.Chelner}!PreiaComanda@{PreiaComanda}}
+\index{PreiaComanda@{PreiaComanda}!Restaurant.Chelner@{Restaurant.Chelner}}
+\doxysubsubsection{\texorpdfstring{PreiaComanda()}{PreiaComanda()}}
+{\footnotesize\ttfamily void Restaurant.\+Chelner.\+Preia\+Comanda (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_restaurant_1_1_i_comanda}{IComanda}}}]{comanda,  }\item[{int}]{index\+Masa }\end{DoxyParamCaption})}
+
+
+
+Metoda prin care chelnerul preia comanda de la masa curenta 
+
+
+\begin{DoxyParams}{Parameters}
+{\em comanda} & \\
+\hline
+{\em index\+Masa} & \\
+\hline
+\end{DoxyParams}
+
+\begin{DoxyExceptions}{Exceptions}
+{\em Exception} & \\
+\hline
+\end{DoxyExceptions}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+E\+:/\+FACULTATE/\+Semestrul 2/\+IP/\+Proiect/\+Final 1.\+0/\+Chelner1/Chelner.\+cs\end{DoxyCompactItemize}

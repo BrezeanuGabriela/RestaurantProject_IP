@@ -1,0 +1,13 @@
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\bin\Debug\Chelner1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\bin\Debug\Chelner1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\bin\Debug\Comanda1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\bin\Debug\Masa1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\bin\Debug\Produs1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\bin\Debug\Comanda1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\bin\Debug\Masa1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\bin\Debug\Produs1.pdb
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\obj\Debug\Chelner.csproj.AssemblyReference.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\obj\Debug\Chelner.csproj.CoreCompileInputs.cache
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\obj\Debug\Chelner.csproj.CopyComplete
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\obj\Debug\Chelner1.dll
+E:\FACULTATE\Semestrul 2\IP\Proiect\Final 1.0\Chelner1\obj\Debug\Chelner1.pdb
